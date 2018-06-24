@@ -1,20 +1,20 @@
 ## Christopher Baroni
-32022 Lazy Glen Ln. • Trabuco Canyon, California 92679
-ChristopherFBaroni@gmail.com • (949)-259-3495
+32022 Lazy Glen Ln. • Trabuco Canyon, California 92679  
+ChristopherFBaroni@gmail.com • (949)-259-3495  
 
 ###### OBJECTIVE
 
 I am a fast learning, motivated Computer Science student seeking opportunities to gain a breadth of experience and knowledge.
 
 ###### EXPERIENCE
-**Cal State Fullerton** Fullerton, California    February 2018-Current
+**Cal State Fullerton** Fullerton, California | February 2018-Current
 *Tutor*
  * Tutoring for Computer Science, Math, and Physics course
  * Helping students error check code
  * Teaching students to think logically
  * Teaching students to organize and properly document code
 
-**Saddleback College** Mission Viejo, California    August 2015-May 2016
+**Saddleback College** Mission Viejo, California | August 2015-May 2016
 *Volunteer Lab Aide*
  * Tutoring for Computer Science Courses
  * Helping students error check code
