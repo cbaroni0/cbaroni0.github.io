@@ -4,19 +4,18 @@ ChristopherFBaroni@gmail.com • (949)-259-3495
 
 ###### OBJECTIVE
 
-I am a fast learning, motivated Computer Science student seeking opportunities to gain a breadth
-of experience and knowledge.
+I am a fast learning, motivated Computer Science student seeking opportunities to gain a breadth of experience and knowledge.
 
 ###### EXPERIENCE
 **Cal State Fullerton** Fullerton, California    February 2018-Current
-'Tutor'
+*Tutor*
 * Tutoring for Computer Science, Math, and Physics course
 * Helping students error check code
 * Teaching students to think logically
 * Teaching students to organize and properly document code
 
 **Saddleback College** Mission Viejo, California    August 2015-May 2016
-'Volunteer Lab Aide'
+*Volunteer Lab Aide*
 * Tutoring for Computer Science Courses
 * Helping students error check code
 
@@ -25,8 +24,8 @@ of experience and knowledge.
 * Member of Video Game Development Club
 
 **Saddleback College** Mission Viejo, California
-'Associates of Science, Computer Science'
-'Associates of Art, Economics'
+*Associates of Science, Computer Science*
+*Associates of Art, Economics*
 * Member of the ACM International Collegiate Programming Contest team
 * Member of Computer Science Society
 
