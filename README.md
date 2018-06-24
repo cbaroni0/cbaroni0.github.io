@@ -1,6 +1,7 @@
 ## Christopher Baroni
-32022 Lazy Glen Ln. • Trabuco Canyon, California 92679  
-ChristopherFBaroni@gmail.com • (949)-259-3495  
+32022 Lazy Glen Ln. | Trabuco Canyon, California 92679  
+ChristopherFBaroni@gmail.com | (949)-259-3495  
+[GitHub: @cbaroni0] (https://github.com/cbaroni0)  
 
 ###### OBJECTIVE
 
