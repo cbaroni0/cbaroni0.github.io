@@ -8,7 +8,7 @@ ChristopherFBaroni@gmail.com | (949)-259-3495
 I am a fast learning, motivated Computer Science student seeking opportunities to gain a breadth of experience and knowledge.
 
 ###### EXPERIENCE
-**Cal State Fullerton** Fullerton, California | February 2018-Current  
+**Cal State Fullerton** Fullerton, California | February 2018-Present  
 *Tutor*
  * Tutoring for Computer Science, Math, and Physics course
  * Helping students error check code
