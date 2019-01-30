@@ -1,5 +1,5 @@
 ## Christopher Baroni
-ChristopherFBaroni@gmail.com | (949)-259-3495  
+ChristopherFBaroni@gmail.com   
 [GitHub: @cbaroni0](https://github.com/cbaroni0)  
 
 ###### OBJECTIVE
@@ -9,7 +9,7 @@ I am a fast learning, motivated Computer Science student seeking opportunities t
 ###### EXPERIENCE
 **Cal State Fullerton** Fullerton, California | February 2018-Present  
 *Tutor*
- * Tutoring for Computer Science, Math, and Physics course
+ * Tutoring for Computer Science, Math, and Physics
  * Helping students error check code
  * Teaching students to think logically
  * Teaching students to organize and properly document code
